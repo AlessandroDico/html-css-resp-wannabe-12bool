@@ -47,7 +47,9 @@
   margin-top: 80px;
 }
 
-#why .row img {
+/* ________piccola modifica del css_______ */
+/* #why .row imd diventa #why .container img */
+#why .container img {
   background-color: #428bca;
   border-radius: 50%;
   padding: 30px
@@ -60,7 +62,9 @@
   clear: both;
 }
 
-.container.grey {
+/* ________piccola modifica del css_______ */
+/* .container.grey diventa .container-gray */
+.container-grey {
   background-color: #f9f9f9;
 }
 
